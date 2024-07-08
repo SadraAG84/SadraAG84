@@ -1,5 +1,5 @@
-## Hi there, My name is Sadra 👋
-
+<h1 align="center">Hi there, My name is Sadra 👋
+.</h1>
 <!--
 **SadraAG84/SadraAG84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">I am a computer engineering student.</h3>
 <br>
-- 📫 How to reach me **alizadeh.sadra.gh@gmail.com**
 
 
 
