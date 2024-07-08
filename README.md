@@ -18,17 +18,8 @@ Here are some ideas to get you started:
 
 
 
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" width="45%">
 
 
 <p align="right">
@@ -36,7 +27,6 @@ Here are some ideas to get you started:
 </p>
 ---
 
-## Mission: Crafting Digital Realms, Forging Unforgettable Experiences.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SadraAG84&label=Profile%20Views&color=0e75b6&style=flat" alt="MTMLYNX" />
