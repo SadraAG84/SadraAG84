@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-<a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)"
+<a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=transparent)"
 align="middle">
-   <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+   <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=transparent)
 " align="midddle">
 </a>
 
