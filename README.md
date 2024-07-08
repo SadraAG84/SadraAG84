@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadraAG84&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadraAG84&layout=compact)
 
 ---
 
