@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=dark)"
+[![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=dark&show_icons=true&count_private=true)]"
 
 
 <p>
