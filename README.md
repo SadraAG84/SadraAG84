@@ -16,12 +16,23 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=radical)
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true" />
+</picture>
 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadraAG84&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
 </p>
 
