@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" width="45%">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=radical)
+</p>
 
 <p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadraAG84&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
