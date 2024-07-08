@@ -16,14 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">I am a computer engineering student.</h3>
-
+<br>
 - 📫 How to reach me **alizadeh.sadra.gh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/sadra-alizadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adem-han" height="30" width="40" /></a>
-<a href="https://www.instagram.com/s4dra_ag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ademhannnn" height="30" width="40" /></a>
-</p>
 
 
 
@@ -36,7 +31,12 @@ Here are some ideas to get you started:
 </p>
 ---
 
-
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="www.linkedin.com/in/sadra-alizadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adem-han" height="30" width="40" /></a>
+<a href="https://www.instagram.com/s4dra_ag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ademhannnn" height="30" width="40" /></a>
+</p>
+<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SadraAG84&label=Profile%20Views&color=0e75b6&style=flat" alt="MTMLYNX" />
 </p>
