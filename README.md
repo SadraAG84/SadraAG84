@@ -17,14 +17,10 @@ Here are some ideas to get you started:
 
 
 
-<a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=transparent)"
-align="middle">
-   <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=transparent)
-" align="midddle">
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&show_icons=true&theme=transparent)"
 
 
-<p align="right">
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadraAG84&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
 </p>
 ---
