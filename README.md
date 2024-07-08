@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 </picture>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadraAG84&layout=compact)
-
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadraAG84&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
+</p>
 ---
 
 ## Mission: Crafting Digital Realms, Forging Unforgettable Experiences.
