@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=dark)
-
+  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=dark)
+" />
 </p>
+
 
 <p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadraAG84&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
