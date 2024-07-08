@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=dark)
-" />
-</p>
+<a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)"
+align="middle">
+   <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+" align="midddle">
+</a>
 
 
 <p align="right">
