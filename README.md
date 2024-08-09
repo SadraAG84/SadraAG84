@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">I am a Computer Engineering student.</h3>
 <br>
 
-
+- 👨‍💻 Currently pursuing a degree in Computer Engineering
+- 🌱 I’m currently learning Flutter & Dart
+- 🙌 Contact Me on my social media for any questions about my project
 
 ## My Github:
 
