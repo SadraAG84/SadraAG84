@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## Reach Me:
+## My Github:
 
 </p>
 
@@ -37,13 +37,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadraAG84&theme=dark&show_icons=true&count_private=true)
-
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadraAG84&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
-</p>
----
+## Reach Me:
 
 - 📫 How to reach me *alizadeh.sadra.gh@gmail.com*
 
