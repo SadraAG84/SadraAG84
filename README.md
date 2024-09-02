@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Currently pursuing a degree in Computer Engineering
 - 🌱 I’m currently learning Flutter & Dart
-- 🙌 Contact Me on my social media for any questions about my project
+- 🙌 Contact Me on my social media for any questions about my projects
 
 ## My Github:
 
