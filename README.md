@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 
 - 👨‍💻 Currently pursuing a degree in Computer Engineering
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I am striving to enhance my expertise in the field of Data Science.
 - 🙌 Contact Me on my social media for any questions about my projects
 
 ## My Github:
