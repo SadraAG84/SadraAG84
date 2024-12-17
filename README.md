@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img width=500 src="https://github-readme-stats.vercel.app/api?username=SadraAG84&?count_private=true&show_icons=true&include_all_commits=true&theme=dark&"/>
   </a>
    <br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SadraAG84&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SadraAG84&theme=dark" alt="GitHub Streak" /></a>
    <br/>
   <a href="https://github.com/SadraAG84/"> 
     <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraAG84&count_private=true&layout=compact&theme=dark&hide=javascript"/>
