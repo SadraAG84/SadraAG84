@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 
 ## My Github:
 
+
 </p>
 
 <p align="center" >  
-  <a href="https://github.com/SadraAG84/"> 
-    <img width=500 src="https://github-readme-stats.vercel.app/api?username=SadraAG84&?count_private=true&show_icons=true&include_all_commits=true&theme=dark&"/>
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SadraAG84&count_private=true&layout=compact&theme=dark&hide=javascript" />
+</a>
    <br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=SadraAG84&theme=dark" alt="GitHub Streak" />
